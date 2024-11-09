@@ -1,7 +1,7 @@
-# excel-portfolio-project
+# sample-data-excel-portfolio-project
 
 ## Description
-The **excel-portfolio-project** is a dynamic and user-friendly tool built entirely in Excel. This project provides an efficient way to manage and analyze portfolio data, leveraging Excel's functionality to deliver clear insights.
+This **excel-portfolio-project** is a dynamic and user-friendly built entirely in Excel. This project provides an efficient way to manage and analyze Call Centre data.
 
 ## Features
 - **Dynamic and Interactive**: Easily update data to see instant results and analysis.
